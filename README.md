@@ -1,4 +1,4 @@
-<H3> Name : SAKTHISWAR S A</H3>
+<H3> Name : SAKTHISWAR S</H3>
 <H3> Register No : 212222230127</H3>
 <H3> Experiment 1</H3>
 <H3>DATE : 02-09-2024</H3>
